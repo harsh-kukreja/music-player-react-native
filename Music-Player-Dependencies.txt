@@ -1,0 +1,21 @@
+Music player 
+Dependencies:
+
+	For responsive dimensions
+	1.react-native-responsive-dimensions
+	npm install --save react-native-responsive-dimensions
+
+	For gradient effect 
+	2.expo-linear-gradient
+	npm install expo-linear-gradient
+
+	For audio play	
+	3.expo-av
+	expo install expo-av
+
+	For icons
+	4. @expo/vector-icons
+	
+	
+
+npm i -s react-native-responsive-dimensions expo-linear-gradient
